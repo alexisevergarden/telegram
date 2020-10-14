@@ -1,0 +1,25 @@
+
+#IATA
+paises = {"GYE":["Ecuador","Guayaquil","LAN Ecuador","Aeropuerto Internacional Jose Joaquin de Olmedo"]
+    ,"UIO":["Ecuador","Quito","Avianca Ecuador","Aeropuerto Internacional Mariscal Sucre",100]
+    ,"ICN":['Corea del Sur', "Ciudad Metropolitana de Incheon", "Korean Air", "Aeropuerto Internacional de Incheon",700]
+    ,"ABC":['España', "Castilla-La Mancha", "Air Europa Lineas Aereas", "Aeropuerto de Albacete",800]
+    ,"AGP":['España', "Andalucía", "Vueling Airlines", "Aeropuerto de Málaga-Costa del Sol",800]
+    ,"HMO":['Mexico', "Sonora","Aeroméxico","Aeropuerto Internacional General Ignacio Pesqueira García",600]
+    ,"GDL":['Mexico', "Jalisco","Calafia Airlines","Aeropuerto Internacional de Guadalajara",600]
+    ,"ARI":["Chile","Arica y Parinacota","LATAM Chile","Aeropuerto Internacional Chacalluta",500]
+    ,"CCP":["Chile","Biobío","Sky Airline","Aeropuerto Carriel Sur",400]
+    ,"BOG":["Colombia","Bogotá","Avianca Aerotaxi","Aeropuerto Internacional El Dorado",350]
+    ,"MDE":["Colombia","Antioquia-Medellin","Cosmos S.A","Aeropuerto Internacional José María Cordova",350]
+    ,"CCC":["Cuba","Ciego de Ávila","Cubana","Aeropuerto Internacional de Jardines del Rey",650]
+    ,"HAV":["Cuba","La Habana","Cubana","	Aeropuerto Internacional José Martín",650]
+    ,"DAY":["Estados Unidos","Ohio","Southwest Airlines","Aeropuerto Internacional James M. Cox-Dayton",700]
+    ,"EGE":["Estados Unidos","Colorado","Delta Airlines","	Aeropuerto Regional del Condado de Eagle",700]
+    ,"CCS":["Venezuela","Dependencias Federales-Caracas","AeroAndinas","Aeropuerto Internacional de Maiquetía Simón Bolívar",500]
+    ,"VCP":["Brasil","São Paulo","Azul Brazilian Airlines","Aeropuerto de Viracopos",700]
+    ,"VDC":["Brasil","Bahía","Passaredo Transportes Aéreos","Aeropuerto de Vitoria da Conquista",700]
+    ,"TRS":["Italia","Friuli-Venecia Julia - Trieste","Air Italy","Aeropuerto de Trieste - Friuli Venezia Giulia",800]
+    ,"NAP":["Italia","Campania - Napoles","Ernest Airlines","Aeropuerto de Nápoles-Capodichino",800]
+    ,"MPN":["Reino Unido","Islas Malvinas","British Airways","Base Aérea de Monte Agradable",750]
+          }
+keys_p = paises
